@@ -12,7 +12,7 @@ Python CLI for cloning, updating, creatign code for maxymiser platform
 Install Package
 
 ```shell 
-    pip install "git+http://git.impetus.co.in/unitedairlines/maxify.git@v1.1.2"
+    pip install "git+https://github.com/shubham-pyc/maxify"
 ```
 ## Usage
 
